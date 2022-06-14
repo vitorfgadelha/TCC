@@ -1,4 +1,4 @@
-# Protótipo de Veículo Autônomo para Mapeamento de Ambientes Industriais
+# Autonomous Land Vehicle Prototype for Mapping of Industrial Environments
 The use of mobile robots is increasingly present in the development of society, from
 simple tasks like domestic services to more complex ones like rescue missions. Currently,
 the main challenge of a mobile robot occurs when the robot is inserted in an
